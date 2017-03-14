@@ -1,11 +1,11 @@
 # Personal Website
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+This is my personal website, an adaptation of Vangelis Tzortzis's Jekyll port of [vangeltzo.com].
 
 ## Preview   
 ![screenshot of Halve](/images/halve-home-image.png)
 
-# Credits
+## Credits
 - Original Theme Work: [Vangelis Tzortzis](https://github.com/srekoble)   
 
 ### Others
