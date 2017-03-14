@@ -39,11 +39,11 @@
   completed: true
 
 - title: Testing8
-    url: http://taylantatli.me/Ramme
-    image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-    completed: true
+  url: http://taylantatli.me/Ramme
+  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  completed: true
 
 - title: Testing9
-      url: http://taylantatli.me/Daisy-Pelican-Theme/
-      image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-      completed: true
+  url: http://taylantatli.me/Daisy-Pelican-Theme/
+  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+  completed: true
