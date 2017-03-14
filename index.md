@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Hello
+# Dude..... Space.. Man!
 
 Second year student studying aerospace engineering at the University of Colorado Boulder, with a minor in biomedical engineering.
 
