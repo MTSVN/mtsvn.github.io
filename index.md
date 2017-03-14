@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Mankind was born on Earth. It was never meant to die here.
+# Contact Light.
 
 Second year student studying aerospace engineering at the University of Colorado Boulder, with a minor in biomedical engineering.
 
