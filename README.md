@@ -3,7 +3,7 @@
 This is my personal website, an adaptation of Vangelis Tzortzis's Jekyll port of [vangeltzo.com].
 
 ## Preview   
-![screenshot of Halve](/images/halve-home-image.png)
+![screenshot of Halve](/images/homeimage.png)
 
 ## Credits
 - Original Theme Work: [Vangelis Tzortzis](https://github.com/srekoble)   
