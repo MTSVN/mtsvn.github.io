@@ -29,11 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
+xmpp:              username@server.com
 email:              sese6651@colorado.edu
+codepen:           username
+github:             MTSVN
 #google.plus:        username
 #twitter:            username
 #facebook:           username
-github:             MTSVN
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -48,9 +50,7 @@ github:             MTSVN
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-codepen:           username
 #keybase:           username
-xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
 
